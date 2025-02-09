@@ -4,7 +4,7 @@ A Flutter project.
 
 ## Getting Started
 
-This a android mobile application which is used to sell/buy luxury cars.
+This was a android mobile application which is used to sell/buy luxury cars.
 
 A few resources to get you started if this is your first Flutter project:
 
