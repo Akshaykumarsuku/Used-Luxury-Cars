@@ -1,10 +1,10 @@
 # lcars
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This a android mobile application which is used to sell/buy luxury cars.
 
 A few resources to get you started if this is your first Flutter project:
 
